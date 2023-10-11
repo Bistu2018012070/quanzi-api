@@ -12,8 +12,8 @@
     <groupId>com.yupi</groupId>
     <artifactId>api-back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>yuapi-backend</name>
-    <description>鱼皮接口</description>
+    <name>api-back</name>
+    <description>权子接口</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
